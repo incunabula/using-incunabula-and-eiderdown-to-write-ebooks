@@ -15,4 +15,8 @@ Both Amazon ebooks and print-on-demand books require covers to be uploaded. This
 
 ## Getting out of the way
 
-The goal of this programme is to automate as much of  the production process as possible, leaving the authors and their editors to concentrate on shaping the text. Incunabula does unob
+The goal of this programme is to automate as much of  the production process as possible, leaving the authors and their editors to concentrate on shaping the text.
+
+Incunabula does unobtrusively what it needs to do, taking incremental backups, managing the history of all changes to the text, by anybody whatsoever, and ensuring that nothing can be, or is lost.
+
+It is a web
