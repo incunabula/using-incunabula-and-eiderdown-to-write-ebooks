@@ -6,3 +6,5 @@
 #{chapter_slug => <<"what-does-it-do-">>,chapter_title => <<"What does it do?">>}.
 #{chapter_slug => <<"configuring-incunabula">>,
   chapter_title => <<"Configuring Incunabula">>}.
+#{chapter_slug => <<"under-the-covers---the-gritty-technical-details">>,
+  chapter_title => <<"Under the covers - the gritty technical details">>}.
