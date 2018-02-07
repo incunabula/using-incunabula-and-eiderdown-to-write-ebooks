@@ -1,6 +1,6 @@
-# What is Incunnabula?
+# What is *Incunnabula*?
 
-Incunabula is a web platform for the production of books for Amazon's self-publishing platform. I produces outputs that are suitable for:
+*Incunabula* is a web platform for the production of books for Amazon's self-publishing platform. I produces outputs that are suitable for:
 *ebooks
 * physical print-on-demand books
 
@@ -10,7 +10,7 @@ It supports the following parts of the book production process:
 * embedding graphics and links
 * producing marketing extracts for social media
 
-Incunabula is a collaborative program
+*Incunabula* is a collaborative programme, many people can work on different parts of a book at the same time, without stepping on each others toes. The workflow is managed and author-centric.
 
 The final output is ready-to-go for printing/distribution on Amazon **with the exception of the covers**.
 
@@ -20,7 +20,7 @@ Both Amazon ebooks and print-on-demand books require covers to be uploaded. This
 
 The goal of this programme is to automate as much of  the production process as possible, leaving the authors and their editors to concentrate on shaping the text.
 
-Incunabula does unobtrusively what it needs to do, taking incremental backups, managing the history of all changes to the text, by anybody whatsoever, and ensuring that nothing can be, or is lost.
+*Incunabula does unobtrusively what it needs to do, taking incremental backups, managing the history of all changes to the text, by anybody whatsoever, and ensuring that nothing can be, or is lost.
 
 It is a web-based product that requires an internet connection to work. In normal circumstances it is for desktop use - but can be used on tablets and phones as well.
 
