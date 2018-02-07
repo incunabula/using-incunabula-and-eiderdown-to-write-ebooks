@@ -21,3 +21,5 @@ Incunabula does unobtrusively what it needs to do, taking incremental backups, m
 
 It is a web-based product that requires an internet connection to work. In normal circumstances it is for desktop use - but can be used on tablets and phones as well.
 
+It uses a simple markup language called `eiderdown` which is designed to be small and easy to master. The books that you write in Incunabula are designed to be p
+
