@@ -1,5 +1,10 @@
 # What is Incunnabula?
 
-Incunabula is a web platform for the production of ebooks for Amazon's self-publishing platform. I produces outputs that are :
-* writing ebooks
-* editing and proofing 
+Incunabula is a web platform for the production of books for Amazon's self-publishing platform. I produces outputs that are suitable for:
+*ebooks
+* physical print-on-demand books
+
+It supports the following parts of the book production process:
+* writing
+* editing, proofing and reviewing
+* prod
