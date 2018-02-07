@@ -9,7 +9,7 @@ It supports the following parts of the book production process:
 * editing, proofing and reviewing
 * producing marketing extracts for social media
 
-The final output is ready-to-go for printing/distribution on Amazon - **with the exception of the covers**.
+The final output is ready-to-go for printing/distribution on Amazon **with the exception of the covers**.
 
 Both Amazon ebooks and print-on-demand books require covers to be uploaded. This is a specialist issue and should be put in the hands of a design professional - Incunabula cannot help you with them.
 
@@ -19,4 +19,5 @@ The goal of this programme is to automate as much of  the production process as 
 
 Incunabula does unobtrusively what it needs to do, taking incremental backups, managing the history of all changes to the text, by anybody whatsoever, and ensuring that nothing can be, or is lost.
 
-It is a web
+It is a web-based product that requires an internet connection to work. In normal circumstances it is for desktop use - but can be used on tablets and phones as well.
+
