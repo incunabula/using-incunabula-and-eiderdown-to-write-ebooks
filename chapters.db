@@ -4,3 +4,5 @@
 #{chapter_slug => <<"who-is-it-for-">>,chapter_title => <<"Who is it for?">>}.
 #{chapter_slug => <<"how-does-it-work-">>,chapter_title => <<"How does it work?">>}.
 #{chapter_slug => <<"what-does-it-do-">>,chapter_title => <<"What does it do?">>}.
+#{chapter_slug => <<"configuring-incunabula">>,
+  chapter_title => <<"Configuring Incunabula">>}.
