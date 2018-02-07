@@ -7,6 +7,8 @@ Incunabula is a web platform for the production of books for Amazon's self-publi
 It supports the following parts of the book production process:
 * writing
 * editing, proofing and reviewing
+* embedding graphics
+* 
 * producing marketing extracts for social media
 
 The final output is ready-to-go for printing/distribution on Amazon **with the exception of the covers**.
